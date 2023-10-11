@@ -1,1 +1,1 @@
-# Comp-sci-250
+# Comp-sci
